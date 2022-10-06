@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nortW0 
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning Lua and C
+- 📫 How to reach me none
